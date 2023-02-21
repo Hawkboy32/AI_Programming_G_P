@@ -1,3 +1,0 @@
-C:/Users/chris/Desktop/Uni/AI Programming/code/build/CMakeFiles/raylib-openai-npcs.dir
-C:/Users/chris/Desktop/Uni/AI Programming/code/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/chris/Desktop/Uni/AI Programming/code/build/CMakeFiles/ZERO_CHECK.dir
